@@ -1,3 +1,3 @@
-# incident-report
+# incident-reporting
 
-https://vmiis.github.io/incident-report/  
+https://vmiis.github.io/incident-reporting/  
